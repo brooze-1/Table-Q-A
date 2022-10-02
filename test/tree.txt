@@ -1,0 +1,25 @@
+Table Q&A
+    ┣━━.idea
+    ┃    ┣━━.gitignore
+    ┃    ┣━━inspectionProfiles
+    ┃    ┃    ┣━━profiles_settings.xml
+    ┃    ┃    ┗━━Project_Default.xml
+    ┃    ┣━━misc.xml
+    ┃    ┣━━modules.xml
+    ┃    ┣━━Table Q&A.iml
+    ┃    ┗━━workspace.xml
+    ┣━━add_data.py
+    ┣━━cal_similarity.py
+    ┣━━data
+    ┃    ┣━━data.xlsx
+    ┃    ┗━━data2.xlsx
+    ┣━━main.py
+    ┣━━process_data.py
+    ┣━━README.md
+    ┣━━res_dict
+    ┃    ┗━━dict.txt
+    ┣━━test
+    ┃    ┣━━generate_tree.py
+    ┃    ┗━━test.py
+    ┗━━__pycache__
+         ┗━━cal_similarity.cpython-36.pyc
