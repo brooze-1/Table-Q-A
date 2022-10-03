@@ -112,9 +112,8 @@ Table Q&A
 
 ### 🍭六、发文平台以及项目开源平台
 
-[github仓库地址🙈](https://github.com/brooze-1/Table-Q-A)
-[gitee仓库地址🙉]()
-[博客首页🙊](https://blog.csdn.net/booze_/article/details/127140250)
+[github仓库地址🙈](https://github.com/brooze-1/Table-Q-A)<br>[gitee仓库地址🙉](https://gitee.com/booze_place/Table-Q-A)<br>
+[博客首页🙊](https://blog.csdn.net/booze_/article/details/127140250)<br>
 
 
 
